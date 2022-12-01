@@ -1,0 +1,9 @@
+
+.two{
+    
+    display: flex;
+    justify-content: center;
+}
+#one{
+    width: 400px;
+}
